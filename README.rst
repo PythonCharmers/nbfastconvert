@@ -19,9 +19,9 @@ nbfastconvert
 Fast differential conversion of Jupyter notebooks
 
 
-* Free software: MIT license
-* Documentation: https://nbfastconvert.readthedocs.io.
-
+* MIT license
+* Status: alpha
+* Documentation: not yet
 
 Features
 --------
